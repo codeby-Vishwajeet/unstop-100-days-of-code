@@ -367,7 +367,7 @@ Please read `CONTRIBUTING.md` before submitting pull requests.
 
 <div align="left">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/yourusername](https://github.com/codeby-Vishwajeet))
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishwajeet-ramniwas-3631a83a3)
 
