@@ -369,7 +369,7 @@ Please read `CONTRIBUTING.md` before submitting pull requests.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishwajeet-ramniwas-3631a83a3)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge)](https://vishwajeet-ai-dev.netlify.app)
 
